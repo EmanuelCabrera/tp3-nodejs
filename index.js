@@ -12,7 +12,7 @@ app.use(express.json())
 
 //conexion de mongobd
 
-const dbUrl = 'mongodb+srv://emanuelzembrunski:4sdprYxQK8nXpuJ8@cluster0.f7jgxgg.mongodb.net/?retryWrites=true&w=majority'
+const dbUrl = ''
 mongoose.connect(dbUrl,{useUnifiedTopology: true})
 .then((result) =>{
   // app.listen(4000)
