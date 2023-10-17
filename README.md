@@ -116,7 +116,6 @@ localhost:4000/tasks/1
 Dejo un link con la coleccion de los diferentes llamados para cargarlo en el postman
 https://bold-shadow-220397.postman.co/workspace/itr~c02242d2-f306-49f5-b4fa-84e985b41b8a/collection/6892879-1c91b58c-7465-4279-baa1-bdcbd81360ae?action=share&creator=6892879
 ## PASOS PARA CORRER EL SCRIPT
-PARA CORRER EL SCRIPT HAY QUE USAR UNA TERMINAR Y ESCRIBIR 
 Para correr el script es necesario tener el servicio corriendo y luego abrir una terminal en la ubicacion de la api y escribir el siguiente comando:
 ```
 node scripts.js
